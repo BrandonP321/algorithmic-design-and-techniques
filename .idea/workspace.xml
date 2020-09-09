@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f32397-e27e-4a9e-935a-2cbae2236289" name="Default Changelist" comment="" />
+    <list default="true" id="29f32397-e27e-4a9e-935a-2cbae2236289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/mergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +40,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gABHSyNHtldMdKC7OpsAdh4dKM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.scratch">
+  <component name="RunManager" selected="Python.mergeSort">
     <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithmic-Design-and-Techniques" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxloot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithmic-Design-and-Techniques" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxloot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/mergeSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergeSort" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.polynomials" />
         <item itemvalue="Python.frenchbinary" />
         <item itemvalue="Python.binarysearch" />
-        <item itemvalue="Python.maxloot" />
       </list>
     </recent_temporary>
   </component>
@@ -156,51 +187,71 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598162726840" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598162726840" />
     <state width="1877" height="363" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598162726839" />
     <state width="1877" height="363" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598162726840" />
     <state width="1877" height="363" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.1.bottom" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598084499729" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.1.center" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598084499729" />
     <state width="1877" height="363" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.1.left" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598084499729" />
     <state width="1877" height="363" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1598255138031">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state width="1493" height="315" key="GridCell.Tab.1.right" timestamp="1599625846966">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598084499729" />
     <state width="1877" height="363" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598255138031" />
-    <state x="-1459" y="182" key="SettingsEditor" timestamp="1598162625110">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="1493" height="315" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1599625846966" />
+    <state x="369" y="110" key="SettingsEditor" timestamp="1599624691404">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="-1459" y="182" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1598162625110" />
+    <state x="369" y="110" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1599624691404" />
     <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1598073284040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
